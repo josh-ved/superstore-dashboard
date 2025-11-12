@@ -1,0 +1,4 @@
+this repository contains a Power BI dashboard built using the Superstore dataset. it provides insights into ** Sales**, **Profit**, **Discount**, and **Shipping performnace** across regions, categories, and customer segments.
+**File:** dashboard.pbix'
+**Tool Used:** Power BI
+**Dataset:** Superstore Sample dataset
